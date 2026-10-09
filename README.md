@@ -1,20 +1,15 @@
+[github-profile-readme-revised.md](https://github.com/user-attachments/files/33268275/github-profile-readme-revised.md)
 # Hi, I'm Maliha Jahan 👋
 
 ### Product Management | AI Product Strategy | Experimentation | GTM
 
-Product marketing and commercial strategy professional with 12+ years across digital products, telecommunications and consumer goods, now supporting marketing at Alltech Canada.
+Product and commercial strategy professional with 12+ years across digital products, telecommunications and consumer goods, combining customer insight, experimentation, GTM and AI product strategy to turn business problems into measurable product decisions.
 
-Led customer-centric launches, positioning, sales enablement and adoption programs, including a retailer platform serving approximately 90,000 retailers that reached 70% first-month adoption. Combines data-driven portfolio management with certifications in AI Product Management, Product Management and Go-to-Market strategy, plus applied AI and SaaS portfolio projects. Translates customer pain points and technical capabilities into clear product benefits, launch plans and measurable growth priorities.
+Currently supporting marketing at Alltech Canada, with prior experience leading customer-centric launches, positioning, sales enablement, portfolio strategy and adoption programs across telecom and CPG. My background includes a retailer platform serving approximately 90,000 retailers that reached 70% first-month adoption, as well as P&L, category strategy, customer strategy and cross-functional leadership.
 
-My experience spans **product strategy, go-to-market, P&L ownership,
-digital transformation, customer strategy, and cross-functional leadership**.
+More recently, I’ve been deepening that experience through hands-on work in **AI product management, product experimentation, AI evaluation, product strategy, and go-to-market design**.
 
-More recently, I’ve been deepening that experience through hands-on work
-in **AI product management, product experimentation, AI evaluation, and
-AI product strategy**.
-
-This GitHub is my product portfolio — a collection of case studies showing
-how I approach:
+This GitHub is my product portfolio — a collection of case studies showing how I approach:
 
 **Problem → Evidence → Product Decision → Experiment → Business Outcome**
 
@@ -26,25 +21,23 @@ how I approach:
 
 **The challenge**
 
-How can a fintech product improve trial-to-paid conversion without asking
-users to pay before they experience meaningful value?
+How can a fintech product improve trial-to-paid conversion without asking users to pay before they experience meaningful value?
 
 **My product bet**
 
-Move the paid boundary after the user reaches a personalized Aha moment:
-seeing a 30-day cash-flow risk and reviewing a recommended action.
+Move the paid boundary after the user reaches a personalized Aha moment: seeing a 30-day cash-flow risk and reviewing a recommended action.
 
 **What I worked on**
 
-`PLG Strategy` · `Aha Moment` · `A/B Testing` · `MDE` · `Guardrails`
-· `Product Metrics` · `Monetization`
+`PLG Strategy` · `Aha Moment` · `A/B Testing` · `MDE` · `Guardrails` · `Product Metrics` · `Monetization`
 
 **Experiment**
 
-Test whether presenting the paid plan after personalized value increases
-trial-to-paid conversion from **1.99% → ≥2.4%**, while protecting engagement.
+Test whether presenting the paid plan after personalized value increases trial-to-paid conversion from **1.99% → ≥2.4%**, while protecting engagement.
 
-👉 [Explore the FinWise case study](https://github.com/malihajahan-collab/FinWise-analytics-Experimentation)
+👉 [Explore the FinWise case study](https://github.com/malihajahan-collab/finwise-product-experimentation)  
+📊 [View the PLG strategy pitch](https://malihajahan-collab.github.io/finwise-product-experimentation/Pitch.html)  
+🧪 [Try the live prototype](https://finwise-onboarding-p-7fon.bolt.host)
 
 ---
 
@@ -52,65 +45,28 @@ trial-to-paid conversion from **1.99% → ≥2.4%**, while protecting engagement
 
 **The challenge**
 
-RouteLogic had built deep enterprise logistics capability, but frontline teams
-were increasingly leaving the platform to complete time-critical work through
-WhatsApp, Google Maps, calls, spreadsheets, and screenshots.
+RouteLogic had built deep enterprise logistics capability, but frontline teams were increasingly leaving the platform to complete time-critical work through WhatsApp, Google Maps, calls, spreadsheets, and screenshots.
 
-Key product signals included **8–15 minute route reassignment delays**,
-**20–60 minute driver-status lag**, and only **48% workflow completion past
-the compliance step**.
+Key product signals included **8–15 minute route reassignment delays**, **20–60 minute driver-status lag**, and only **48% workflow completion past the compliance step**.
 
 **My product decision**
 
-Instead of adding more frontline capability, I prioritized **strategic
-subtraction** — simplifying the execution layer while preserving enterprise
-controls in the background.
+Instead of adding more frontline capability, I prioritized **strategic subtraction** — simplifying the execution layer while preserving enterprise controls in the background.
 
-> RouteLogic became powerful by adding more. Velocity tests whether it can
-> become more valuable by knowing what to remove.
+> RouteLogic became powerful by adding more. Velocity tests whether it can become more valuable by knowing what to remove.
 
 **Executive recommendation**
 
-Run a **4-week pilot across 3 enterprise accounts**, starting with a
-One-Click Compliance workflow and pre-defined **ship / iterate / kill**
-decision criteria.
+Run a **4-week pilot across 3 enterprise accounts**, starting with a One-Click Compliance workflow and pre-defined **ship / iterate / kill** decision criteria.
 
 **What this case demonstrates**
 
-`Product Diagnosis` · `UXR` · `Metric Strategy` · `Prioritization`
-· `Roadmap` · `PRD` · `Experiment Design` · `GTM` · `Executive Pitch`
+`Product Diagnosis` · `UXR` · `Metric Strategy` · `Prioritization` · `Roadmap` · `PRD` · `Experiment Design` · `GTM` · `Executive Pitch`
 
 👉 [Explore the full RouteLogic case study](https://github.com/malihajahan-collab/RouteLogic-product-management)  
 📊 [View the executive board pitch](https://malihajahan-collab.github.io/RouteLogic-product-management/)  
 🧪 [Try the live prototype](https://preview--swift-check-approve.lovable.app/)  
 🗺️ [Explore the interactive roadmap](https://bolt.new/~/sb1-pxzxtfvc)
-
----
-
-### 🤖 ShelfSense — AI Product Strategy
-
-**The challenge**
-
-How can AI improve CPG demand and promotion planning without asking planners
-to trust recommendations the underlying evidence cannot support?
-
-**Strategic direction**
-
-Use AI selectively in high-value planning decisions where proprietary data,
-workflow integration, human oversight, and measurable outcomes can create
-a defensible advantage.
-
-**What I worked on**
-
-`AI Strategy` · `AI Value Proposition` · `Data Advantage`
-· `Human-in-the-Loop` · `Evals` · `Unit Economics`
-· `Guardrails` · `AI Governance`
-
-**North Star**
-
-> Make ShelfSense the trusted decision layer for CPG demand planning.
-
-👉 **ShelfSense case study — coming soon**
 
 ---
 
@@ -127,8 +83,7 @@ I believe strong product management connects four questions:
 
 AI can accelerate research, synthesis, prototyping, and execution.
 
-**Product judgment still determines what should be built, what should not,
-and what evidence is strong enough to make the decision.**
+**Product judgment still determines what should be built, what should not, and what evidence is strong enough to make the decision.**
 
 ---
 
@@ -166,20 +121,16 @@ I explore questions such as:
 ## 🛠 Product Toolkit
 
 ### Product
-`Product Strategy` `Discovery` `JTBD` `UXR Synthesis`
-`Prioritization` `Roadmaps` `PRDs` `GTM`
+`Product Strategy` `Discovery` `JTBD` `UXR Synthesis` `Prioritization` `Roadmaps` `PRDs` `GTM`
 
 ### Experimentation
-`Hypothesis Design` `A/B Testing` `MDE`
-`Guardrails` `Product Metrics` `Decision Criteria`
+`Hypothesis Design` `A/B Testing` `MDE` `Guardrails` `Product Metrics` `Decision Criteria`
 
 ### AI Product
-`AI Product Strategy` `AI Evals` `Human-in-the-Loop`
-`AI Guardrails` `Prototyping`
+`AI Product Strategy` `AI Evals` `Human-in-the-Loop` `AI Guardrails` `Prototyping`
 
 ### Commercial
-`P&L` `Category Strategy` `Customer Strategy`
-`Go-to-Market` `Stakeholder Management` `S&OP / IBP`
+`P&L` `Category Strategy` `Customer Strategy` `Go-to-Market` `Stakeholder Management` `S&OP / IBP`
 
 ---
 
@@ -188,21 +139,20 @@ I explore questions such as:
 🎓 **Product Management Certification** — Product School  
 🎓 **AI Product Management Certification** — Product School  
 🎓 **Product Experimentation Certification** — Product School  
+🎓 **Go-to-Market Certification** — Product School  
 🎓 **AI Evals**  
 📖 **AI Product Strategy** — In Progress  
 🏅 **PMP®**
 
 The goal isn't to collect certifications.
 
-It's to combine modern product and AI practices with the commercial
-experience I've built throughout my career.
+It's to combine modern product and AI practices with the commercial experience I've built throughout my career.
 
 ---
 
 ## 💡 What You'll Find Here
 
-Each major repository is structured as a product case study rather than
-simply a collection of deliverables.
+Each major repository is structured as a product case study rather than simply a collection of deliverables.
 
 I document:
 
@@ -219,12 +169,8 @@ I document:
 
 ## 🤝 Let's Connect
 
-I'm particularly interested in opportunities at the intersection of
-**product strategy, AI-enabled products, experimentation, growth, and
-digital transformation.**
+I'm particularly interested in opportunities at the intersection of **product strategy, AI-enabled products, experimentation, growth, and digital transformation.**
 
 📍 Calgary, Alberta, Canada
-
-💼 [LinkedIn](YOUR-LINKEDIN-URL)
 
 📂 [GitHub Portfolio](https://github.com/malihajahan-collab)
