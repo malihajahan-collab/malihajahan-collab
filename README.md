@@ -48,34 +48,42 @@ trial-to-paid conversion from **1.99% → ≥2.4%**, while protecting engagement
 
 ---
 
-### 🚚 RouteLogic Velocity — Product Management
+### 🚚 RouteLogic Velocity — B2B SaaS Product Strategy
 
 **The challenge**
 
-RouteLogic grew into a powerful enterprise logistics platform, but increasing
-product complexity began slowing the frontline users who depend on it for
-time-critical operational decisions.
+RouteLogic had built deep enterprise logistics capability, but frontline teams
+were increasingly leaving the platform to complete time-critical work through
+WhatsApp, Google Maps, calls, spreadsheets, and screenshots.
 
-Research showed coordinators moving work into **WhatsApp, spreadsheets,
-calls, screenshots, and other manual workarounds** when the platform became
-too slow or unreliable.
+Key product signals included **8–15 minute route reassignment delays**,
+**20–60 minute driver-status lag**, and only **48% workflow completion past
+the compliance step**.
 
-**My product bet**
+**My product decision**
+
+Instead of adding more frontline capability, I prioritized **strategic
+subtraction** — simplifying the execution layer while preserving enterprise
+controls in the background.
 
 > RouteLogic became powerful by adding more. Velocity tests whether it can
 > become more valuable by knowing what to remove.
 
-**What I worked on**
+**Executive recommendation**
 
-`Product Discovery` · `UXR Synthesis` · `JTBD` · `Journey Mapping`
-· `Prioritization` · `PRD` · `Experimentation` · `Roadmap` · `GTM`
+Run a **4-week pilot across 3 enterprise accounts**, starting with a
+One-Click Compliance workflow and pre-defined **ship / iterate / kill**
+decision criteria.
 
-**Strategic objective**
+**What this case demonstrates**
 
-Restore RouteLogic as the frontline **system of action** while preserving
-enterprise capabilities in the background.
+`Product Diagnosis` · `UXR` · `Metric Strategy` · `Prioritization`
+· `Roadmap` · `PRD` · `Experiment Design` · `GTM` · `Executive Pitch`
 
-👉 **RouteLogic case study — coming soon**
+👉 [Explore the full RouteLogic case study](https://github.com/malihajahan-collab/RouteLogic-product-management)  
+📊 [View the executive board pitch](https://malihajahan-collab.github.io/RouteLogic-product-management/)  
+🧪 [Try the live prototype](https://preview--swift-check-approve.lovable.app/)  
+🗺️ [Explore the interactive roadmap](https://bolt.new/~/sb1-pxzxtfvc)
 
 ---
 
