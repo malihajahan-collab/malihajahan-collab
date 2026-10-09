@@ -2,9 +2,9 @@
 
 ### Product Management | AI Product Strategy | Experimentation | GTM
 
-I’m a product and commercial strategy professional with 10+ years of
-experience across telecom, FMCG/CPG, technology, and retail, including
-global organizations such as Unilever and JTI.
+Product marketing and commercial strategy professional with 12+ years across digital products, telecommunications and consumer goods, now supporting marketing at Alltech Canada.
+
+Led customer-centric launches, positioning, sales enablement and adoption programs, including a retailer platform serving approximately 90,000 retailers that reached 70% first-month adoption. Combines data-driven portfolio management with certifications in AI Product Management, Product Management and Go-to-Market strategy, plus applied AI and SaaS portfolio projects. Translates customer pain points and technical capabilities into clear product benefits, launch plans and measurable growth priorities.
 
 My experience spans **product strategy, go-to-market, P&L ownership,
 digital transformation, customer strategy, and cross-functional leadership**.
