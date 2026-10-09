@@ -1,4 +1,3 @@
-[github-profile-readme-revised.md](https://github.com/user-attachments/files/33268275/github-profile-readme-revised.md)
 # Hi, I'm Maliha Jahan 👋
 
 ### Product Management | AI Product Strategy | Experimentation | GTM
@@ -140,8 +139,8 @@ I explore questions such as:
 🎓 **AI Product Management Certification** — Product School  
 🎓 **Product Experimentation Certification** — Product School  
 🎓 **Go-to-Market Certification** — Product School  
-🎓 **AI Evals**  
-📖 **AI Product Strategy** — In Progress  
+🎓 **AI Evals Certification** — Product School  
+📖 **AI Product Strategy Certification** — Product School  
 🏅 **PMP®**
 
 The goal isn't to collect certifications.
